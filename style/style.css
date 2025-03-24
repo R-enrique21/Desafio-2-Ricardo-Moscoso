@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+header{
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+
+   
+}
+nav a{
+    text-decoration: none;
+    color: goldenrod;
+    font-family: "Outfit", sans-serif;
+    font-size: 20px;
+
+}
+nav a:hover{
+text-decoration: underline;
+}
+
+nav img{
+    width: 150px;
+    border-radius: 100px;
+}
+.eslogan{
+    font-size: 35px;
+    color: goldenrod;
+    text-align: center;
+    background-color: black;
+    font-family: "Outfit", sans-serif;
+    
+
+}
